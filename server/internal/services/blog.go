@@ -9,11 +9,11 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/GolangWithReactApp/server/internal/external"
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/external"
 
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/dtos"
 	"github.com/gin-gonic/gin"
 	validation "github.com/go-ozzo/ozzo-validation/v4"
-	"github.com/GolangWithReactApp/server/internal/dtos"
 )
 
 func MintBlog(ctx *gin.Context, blog *dtos.MintBlog, address string) (interface{}, error) {

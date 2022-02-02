@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/GolangWithReactApp/server/internal/routing"
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/routing"
 )
 
 func main() {

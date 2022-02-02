@@ -1,9 +1,9 @@
 package routing
 
 import (
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/controller"
 	"github.com/gin-gonic/contrib/static"
 	"github.com/gin-gonic/gin"
-	"github.com/GolangWithReactApp/server/internal/controller"
 )
 
 func SetUpRouter() {

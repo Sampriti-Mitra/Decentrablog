@@ -4,11 +4,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/GolangWithReactApp/server/internal/constants"
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/constants"
 
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/dtos"
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/services"
 	"github.com/gin-gonic/gin"
-	"github.com/GolangWithReactApp/server/internal/dtos"
-	"github.com/GolangWithReactApp/server/internal/services"
 )
 
 func MintBlog(c *gin.Context) {

@@ -5,11 +5,11 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/GolangWithReactApp/server/internal/dtos"
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/dtos"
 
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/config"
 	"github.com/ethereum/go-ethereum/ethclient"
 	"github.com/nftlabs/nftlabs-sdk-go/pkg/nftlabs"
-	"github.com/GolangWithReactApp/server/internal/config"
 )
 
 func getThirdWebInstance() (*nftlabs.Sdk, error) {

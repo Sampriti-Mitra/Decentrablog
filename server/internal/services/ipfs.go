@@ -3,8 +3,8 @@ package services
 import (
 	"encoding/json"
 
-	"github.com/GolangWithReactApp/server/internal/config"
-	"github.com/GolangWithReactApp/server/internal/external"
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/config"
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/external"
 )
 
 func UploadToIPFS(body map[string]interface{}) (map[string]interface{}, error) {

@@ -1,8 +1,8 @@
 package dtos
 
 import (
+	"github.com/Sampriti-Mitra/Decentrablog/server/internal/constants"
 	"github.com/gin-gonic/gin"
-	"github.com/GolangWithReactApp/server/internal/constants"
 )
 
 type Blog struct {

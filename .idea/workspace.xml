@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8ebed29-cf15-45c1-9008-428c5c5c3f8b" name="Default Changelist" comment="" />
+    <list default="true" id="d8ebed29-cf15-45c1-9008-428c5c5c3f8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/server/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/internal/controller/blog.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/internal/controller/blog.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/internal/dtos/blog.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/internal/dtos/blog.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/internal/routing/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/internal/routing/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/internal/services/blog.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/internal/services/blog.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/internal/services/ipfs.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/internal/services/ipfs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/internal/services/mint.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/internal/services/mint.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,8 +66,8 @@
       <recent name="$PROJECT_DIR$/frontend/src/components/Navigation" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/GolangWithReactApp/server">
-    <configuration name="go build github.com/GolangWithReactApp/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build github.com/Sampriti-Mitra/Decentrablog/server/server">
+    <configuration name="go build github.com/Sampriti-Mitra/Decentrablog/server/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolangWithReactApp" />
       <working_directory value="$PROJECT_DIR$/server" />
       <EXTENSION ID="net.ashald.envfile">
@@ -72,7 +82,7 @@
       </EXTENSION>
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/server/main.go" />
-      <package value="github.com/GolangWithReactApp/server" />
+      <package value="github.com/Sampriti-Mitra/Decentrablog/server" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -113,12 +123,12 @@
       <item itemvalue="Go Build.go build " />
       <item itemvalue="Go Build.go build weekend.side/GolangWithReactApp" />
       <item itemvalue="Go Build.go build weekend.side/GolangWithReactApp/internal/services/main" />
-      <item itemvalue="Go Build.go build github.com/GolangWithReactApp/server" />
+      <item itemvalue="Go Build.go build github.com/Sampriti-Mitra/Decentrablog/server/server" />
       <item itemvalue="Makefile.linuxbuild" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build github.com/GolangWithReactApp/server" />
+        <item itemvalue="Go Build.go build github.com/Sampriti-Mitra/Decentrablog/server/server" />
         <item itemvalue="Makefile.linuxbuild" />
         <item itemvalue="Go Build.go build weekend.side/GolangWithReactApp" />
         <item itemvalue="Go Build.go build weekend.side/GolangWithReactApp/internal/services/main" />

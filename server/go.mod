@@ -1,4 +1,4 @@
-module github.com/GolangWithReactApp/server
+module github.com/Sampriti-Mitra/Decentrablog/server
 
 // +heroku goVersion go1.17
 go 1.15
